@@ -7,12 +7,12 @@ pkgname=displaylink
 pkgver=5.8
 _releasedate=2023-08
 _pkgfullver=5.8.0-63.33
-pkgrel=1
+pkgrel=2
 pkgdesc="Linux driver for DL-6xxx, DL-5xxx, DL-41xx and DL-3x00"
 arch=('i686' 'x86_64' 'arm' 'armv6h' 'armv7h' 'aarch64')
 url="https://www.synaptics.com/products/displaylink-graphics"
 license=('custom' 'GPL2' 'LGPL2.1')
-depends=('evdi'
+depends=('evdi<1.15.0'
          'libusb')
 makedepends=('grep' 'gawk' 'wget')
 changelog="displaylink-release-notes-${pkgver}.txt"
