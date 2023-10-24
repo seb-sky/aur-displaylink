@@ -1,7 +1,7 @@
 pkgbase = displaylink
 	pkgdesc = Linux driver for DL-6xxx, DL-5xxx, DL-41xx and DL-3x00
 	pkgver = 5.8
-	pkgrel = 2
+	pkgrel = 3
 	url = https://www.synaptics.com/products/displaylink-graphics
 	changelog = displaylink-release-notes-5.8.txt
 	arch = i686
@@ -28,8 +28,8 @@ pkgbase = displaylink
 	sha256sums = 22c552ead448c80d9e8dd48a842bb511184d07a74180ac76bd89dd144ddda816
 	sha256sums = b5a1a75b2042cd5efb475b53f1ead5207f706c6eb45f4572d7b226ffcdee3ee9
 	sha256sums = 2f81fea43332a62b2cf1dd47e56ea01caf1e886bcd16c3f82b18bfe148fb21a9
-	sha256sums = dc41ae8a2c287fc50fdda65bad8b0ffd76726f7773c25e1b0c5b7de95cecbdb6
-	sha256sums = c08a4726cf4e2f92c7cab00168ae9cc8d69d36a67c570609396a4a674934245a
+	sha256sums = 7347fa56672b73560f532a1a21a56b336f3d7dd96bf455762cd0906485d47575
+	sha256sums = 530c488fa9b2833ff64611ff2b533f63212a85f8ebed446d5a4d51cf9a52c7ea
 	sha256sums = 342e83abfe2a38d5635ea928345e933d2ad127ebd3f7caca476663d4f583684b
 	sha256sums = 8be4ab7616e38f91746bdd3e7fafe9004322a8be8e6722389746df9868d576e0
 
